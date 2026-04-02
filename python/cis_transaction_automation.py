@@ -12,8 +12,8 @@ import time
 import datetime
 
 # === CONFIGURABLE PATH ===
-edge_driver_path = r"C:\Users\izzyr\OneDrive\Documents\lib\edgedriver_win64\msedgedriver.exe"
-photo_dir = r"C:\Users\izzyr\OneDrive\Documents\Rangga\Kuliah S1 Statistika\KP\Lognus 5 Automation\Out_Lognus1_5"
+edge_driver_path = r"C:\Users\user\lib\edgedriver_win64\msedgedriver.exe"
+photo_dir = r"C:\Users\user\Lognus 5 Automation\Out_Lognus1_5"
 
 # === Helper Functions ===
 
@@ -264,4 +264,4 @@ def run_script(xlsx_path):
     print("🏁 Script selesai.")
 
 # Run the script
-run_script(r"C:\Users\izzyr\OneDrive\Documents\Rangga\Kuliah S1 Statistika\KP\Lognus 5 Automation\Manifest Logistik Nusantara 1 Voyage 5 Out.xlsx")
+run_script(r"C:\Users\user\OneDrive\Documents\Rangga\Kuliah S1 Statistika\KP\Lognus 5 Automation\Manifest Logistik Nusantara 1 Voyage 5 Out.xlsx")
