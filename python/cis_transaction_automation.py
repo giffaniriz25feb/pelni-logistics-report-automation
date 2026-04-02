@@ -264,4 +264,4 @@ def run_script(xlsx_path):
     print("🏁 Script selesai.")
 
 # Run the script
-run_script(r"C:\Users\user\OneDrive\Documents\Rangga\Kuliah S1 Statistika\KP\Lognus 5 Automation\Manifest Logistik Nusantara 1 Voyage 5 Out.xlsx")
+run_script(r"C:\Users\user\Lognus 5 Automation\Manifest Logistik Nusantara 1 Voyage 5 Out.xlsx")
